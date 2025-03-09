@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖼️ Image Captioning with Fine-tuned BLIP Model
 
 This project leverages the BLIP (Bootstrapping Language-Image Pre-training) model to generate accurate image captions. By fine-tuning the pre-trained BLIP model with a Kaggle image captioning dataset, we significantly improve the model's captioning accuracy. The refined model is deployed in a user-friendly Streamlit application, allowing users to upload images and receive descriptive captions.
@@ -104,3 +105,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 If you have any questions or suggestions, please feel free to contact us at [theagentvikram@gmail.com].
+=======
+# Image-Captioning
+This project improves the BLIP model's image captioning accuracy by fine-tuning it with a Kaggle dataset. 📊 The refined model, integrated into a Streamlit app, allows users to upload images and receive captions. 🌟 The developer handles the fine-tuning process, enhancing model accuracy, while users interact with the model via a simple interface
+>>>>>>> 99234ba7ac5ba355a9ec209f83cc6f6661df1d0d
